@@ -11,7 +11,7 @@ An end-to-end invoice automation workflow built with n8n that processes incoming
 - Eliminate repetitive copy-paste tasks  
 
 **Tools Used**  
-- **n8n** – Workflow automation platform with 14-day free trial  
+- **N8N** – Workflow automation platform with 14-day free trial  
 - **Google Gemini 2.0** – AI model for information extraction  
 - **APITemplate.io** – PDF generation service  
 - **Gmail API** – Email processing and draft creation  
@@ -27,7 +27,7 @@ An end-to-end invoice automation workflow built with n8n that processes incoming
   ![n8n workflow](screenshots/n8n%20workflow.jpg)
 
 - **n8n in Action (Execution Panel)**  
-  ![n8n work](screenshots/n8n%20work.jpg)
+  ![N8N work](screenshots/n8n%20work.jpg)
 
 - **Gmail Draft with PDF**  
   ![gmail draft](screenshots/gmail%20draft.jpg)
