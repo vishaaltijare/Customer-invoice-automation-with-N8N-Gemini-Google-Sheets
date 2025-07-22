@@ -1,4 +1,4 @@
-# Customer-invoice-automation-with-N8N-Gemini-Google-Sheets
+# AI based customer invoice automation with N8N, Gemini, Google Sheets
 
 **Project Overview**  
 An end-to-end invoice automation workflow built with n8n that processes incoming invoice emails, extracts customer data using AI, generates PDF invoices, creates email drafts, and logs transactions to Google Sheets.
