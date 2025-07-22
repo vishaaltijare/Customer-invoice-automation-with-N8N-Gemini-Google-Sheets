@@ -28,11 +28,11 @@ An end-to-end invoice automation workflow built with n8n that processes incoming
 
   ![automation prompt](screenshots/automation%20Prompt.jpg)
 
-- **n8n Workflow (Full View)** 
+- **N8N Workflow (Full View)** 
  
   ![n8n workflow](screenshots/n8n%20workflow.jpg)
 
-- **n8n in Action (Execution Panel)**  
+- **N8N execution**  
 
   ![N8N work](screenshots/n8n%20work.jpg)
 
